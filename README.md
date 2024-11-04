@@ -1,4 +1,4 @@
-# Algo-proramming pt.3 labs 
+# Algo-programming part 3 labs 
 ## IR - 23
 ### Languages :
 - C
